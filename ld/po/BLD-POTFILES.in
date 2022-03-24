@@ -1,5 +1,7 @@
 eaarch64cloudabi.c
 eaarch64cloudabib.c
+eaarch64hermit.c
+eaarch64hermitb.c
 eaarch64elf.c
 eaarch64elf32.c
 eaarch64elf32b.c
@@ -202,6 +204,7 @@ eelf_l1om_fbsd.c
 eelf_s390.c
 eelf_x86_64.c
 eelf_x86_64_cloudabi.c
+eelf_x86_64_hermit.c
 eelf_x86_64_fbsd.c
 eelf_x86_64_sol2.c
 eh8300elf.c
